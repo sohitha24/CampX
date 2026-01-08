@@ -1,0 +1,8 @@
+{
+  "name": "EduDash ",
+  "description": "A comprehensive student dashboard featuring attendance tracking, AI course assistance, personalized scheduling, and feedback management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
